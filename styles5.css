@@ -1,0 +1,177 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333;
+  }
+  
+  /* Header Styles */
+  header {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  /* Hero Section Styles */
+  #hero {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  #hero h1 {
+    font-size: 36px;
+    color: #333;
+  }
+  
+  #hero p {
+    font-size: 18px;
+    color: #666;
+  }
+  
+  .cta-button {
+    display: inline-block;
+    padding: 12px 30px;
+    margin-top: 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: #555;
+  }
+  
+  /* How It Works Section Styles */
+  #how-it-works {
+    padding: 50px 0;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  #how-it-works h2 {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .step {
+    margin-bottom: 40px;
+  }
+  
+  .step img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 20px;
+  }
+  
+  .step h3 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .step p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  /* Featured Jobs Section Styles */
+  #featured-jobs {
+    padding: 50px 0;
+    background-color: #f2f2f2;
+    text-align: center;
+  }
+  
+  #featured-jobs h2 {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .job {
+    margin-bottom: 40px;
+  }
+  
+  .job h3 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .job p {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  /* Job Search Section Styles */
+  #search {
+    padding: 50px 0;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  #search h2 {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Candidate Registration Section Styles */
+  #register {
+    padding: 50px 0;
+    background-color: #f2f2f2;
+    text-align: center;
+  }
+  
+  #register h2 {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  footer ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  footer ul li a {
+    text-decoration: none;
+    color: #fff;
+  }
+  
